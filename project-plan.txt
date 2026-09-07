@@ -1,0 +1,38 @@
+Project 04 — Identity Governance
+
+Organization:
+Autumn Solutions
+
+Business Scenario:
+Employees require controlled, time-bound access to Finance resources.
+Access must be requested, justified, approved, reviewed, and removed when no longer required.
+
+Governance Architecture:
+Microsoft Entra Entitlement Management
+→ Catalog
+→ Access Package
+→ Request Policy
+→ Approval
+→ Resource Assignment
+→ Access Review
+→ Retain or Remove Access
+
+Planned Resources:
+- Finance security group
+- LedgerFlow enterprise application
+
+Governance Controls:
+- Self-service access requests
+- Business justification
+- Approval workflow
+- Time-bound assignments
+- Access reviews
+- Automatic result application
+- Least privilege
+- Delegated governance
+
+Primary Test Scenario:
+User requests temporary Finance Systems access.
+Approver reviews request.
+Approved user receives group and application access.
+Access is later reviewed and either retained or removed.
