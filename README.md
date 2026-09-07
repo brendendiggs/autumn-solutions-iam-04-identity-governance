@@ -275,6 +275,10 @@ Evidence captured during the completed governance lifecycle:
 15. `15-Taylor-LedgerFlow-Access-Revoked.png`
     - Taylor was automatically removed from LedgerFlow.
 
+
+16. `16-IAM-04-Public-Portfolio-Case-Study.png`
+    - Public recruiter-facing IAM-04 case study published at brendendiggs.com.
+
 The evidence demonstrates the complete lifecycle:
 
 **request -> approval -> automated provisioning -> access review -> denial -> results applied -> automated revocation**
