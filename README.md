@@ -8,6 +8,13 @@ The business requirement was to ensure that access was not granted manually or i
 
 **Request -> Justification -> Approval -> Provisioning -> Access Review -> Revocation**
 
+
+## Video Walkthrough
+
+▶ **[Watch the 2–3 minute project walkthrough](https://youtu.be/mKYtYUfVH1c)**
+
+See the access request, approval, provisioning, access review, and governance-driven revocation workflow demonstrated end to end.
+
 ## Business Scenario
 
 Employees may occasionally require temporary access to Finance systems.
